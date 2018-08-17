@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="keytab" type="PLAIN_TEXT" />
+      <mapping pattern="jqer.js" type="PLAIN_TEXT" />
+      <mapping ext="users" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="drl" type="PLAIN_TEXT" />
+      <mapping ext="less" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

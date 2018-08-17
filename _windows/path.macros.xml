@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="CLASS" value="D:/workspaces/topdesk" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\laszlov\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\182.3911.36\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="D:\maven_repo" />
+  </component>
+</application>
