@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx4000m" />
+  <component name="MavenVersion" vmOptions="-Xmx3000m" mavenHome="/usr/share/maven" />
 </application>
