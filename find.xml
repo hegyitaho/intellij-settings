@@ -23,5 +23,7 @@
     <mask>*w*</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>!test*</mask>
+    <mask>*!test</mask>
   </component>
 </application>
